@@ -21,6 +21,8 @@ public class TestCase1 {
 	@Test(dependsOnMethods= {"two"})
 	public void one() {
 		System.out.println("first test case");
+		System.out.println("first test case12");
+		System.out.println("first test case34");
 	}
 	
 	@Test
