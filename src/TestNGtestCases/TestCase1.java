@@ -28,5 +28,7 @@ public class TestCase1 {
 	@Test
 	public void two() {
 		System.out.println("2nd test case");
+		System.out.println("2nd test case by american guy");
+		System.out.println("2nd test case by china guy");
 	}
 }
