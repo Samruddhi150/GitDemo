@@ -31,4 +31,11 @@ public class TestCase1 {
 		System.out.println("2nd test case by american guy");
 		System.out.println("2nd test case by china guy");
 	}
+	@Test
+	public void three() {
+		System.out.println("added in develop branch 1");
+		System.out.println("added in develop branch 2");
+		System.out.println("added in develop branch 3");
+	
+	}
 }
